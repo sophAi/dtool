@@ -1,0 +1,145 @@
+TITLE      Bead connection
+REMARK     Bond number= 22
+REMARK     Bead number= 23
+REMARK     Frame ID= 1
+REMARK     Value right after coordinates is the bond distance
+MODEL        0
+ATOM      1    O ACE     1      35.966   34.62  14.898
+ATOM      2    O TYR     2      33.822  32.762 18.5353      19.2864
+CONECT    1    2
+ATOM      3    O TYR     2      33.822  32.762 18.5353
+ATOM      4   OH TYR     2     33.8957 36.7307 19.8597      18.9331
+CONECT    3    4
+ATOM      5   OH TYR     2     33.8957 36.7307 19.8597
+ATOM      6    O THR     3     32.5087 32.9903  21.802      4.83345
+CONECT    5    6
+ATOM      7    O THR     3     32.5087 32.9903  21.802
+ATOM      8  OG1 THR     3     34.4082 30.2495  19.607      4.23547
+CONECT    7    8
+ATOM      9  OG1 THR     3     34.4082 30.2495  19.607
+ATOM     10    O ILE     4      31.962  31.737 24.8103      14.323
+CONECT    9   10
+ATOM     11    O ILE     4      31.962  31.737 24.8103
+ATOM     12   CD ILE     4      29.827 34.5958 23.3285      4.35021
+CONECT   11   12
+ATOM     13   CD ILE     4      29.827 34.5958 23.3285
+ATOM     14    O ALA     5     30.0237  32.237  27.122      6.04223
+CONECT   13   14
+ATOM     15    O ALA     5     30.0237  32.237  27.122
+ATOM     16   CB ALA     5     33.9045  31.567 26.8045      6.27231
+CONECT   15   16
+ATOM     17   CB ALA     5     33.9045  31.567 26.8045
+ATOM     18    O ALA     6     27.5903 30.3037 27.5053      1.84187
+CONECT   17   18
+ATOM     19    O ALA     6     27.5903 30.3037 27.5053
+ATOM     20   CB ALA     6     27.6945  33.762  26.292      5.88413
+CONECT   19   20
+ATOM     21   CB ALA     6     27.6945  33.762  26.292
+ATOM     22    O LEU     7     28.4137  28.642 29.8903      11.2655
+CONECT   21   22
+ATOM     23    O LEU     7     28.4137  28.642 29.8903
+ATOM     24   CG LEU     7     29.0362  27.012 26.1785      6.40851
+CONECT   23   24
+ATOM     25   CG LEU     7     29.0362  27.012 26.1785
+ATOM     26    O LEU     8      28.252 26.3503 32.3553      7.51598
+CONECT   25   26
+ATOM     27    O LEU     8      28.252 26.3503 32.3553
+ATOM     28   CG LEU     8     28.3585 30.5489 33.0278      4.72919
+CONECT   27   28
+ATOM     29   CG LEU     8     28.3585 30.5489 33.0278
+ATOM     30    O SER     9      25.723  26.344  34.643      8.7672
+CONECT   29   30
+ATOM     31    O SER     9      25.723  26.344  34.643
+ATOM     32   OG SER     9      29.255  24.522  33.995      4.71118
+CONECT   31   32
+ATOM     33   OG SER     9      29.255  24.522  33.995
+ATOM     34    O PRO    10     23.9953  24.317 35.9037      5.86032
+CONECT   33   34
+ATOM     35    O PRO    10     23.9953  24.317 35.9037
+ATOM     36   CG PRO    10     24.0481 26.2131 32.5214      7.41608
+CONECT   35   36
+ATOM     37   CG PRO    10     24.0481 26.2131 32.5214
+ATOM     38    O TYR    11      23.367  24.142  39.067      12.5853
+CONECT   37   38
+ATOM     39    O TYR    11      23.367  24.142  39.067
+ATOM     40   OH TYR    11     24.9897 20.3587 38.6703      9.96931
+CONECT   39   40
+ATOM     41   OH TYR    11     24.9897 20.3587 38.6703
+ATOM     42    O SER    12      20.687 23.0432 41.8945       7.886
+CONECT   41   42
+ATOM     43    O SER    12      20.687 23.0432 41.8945
+ATOM     44   OG SER    12      22.253  26.264  40.323      10.1067
+CONECT   43   44
+ENDMDLTITLE      Bead connection
+REMARK     Bond number= 22
+REMARK     Bead number= 23
+REMARK     Frame ID= 2
+REMARK     Value right after coordinates is the bond distance
+MODEL        0
+ATOM      1    O ACE     1      35.966   34.62  14.898
+ATOM      2    O TYR     2      33.822  32.762 18.5353      19.2864
+CONECT    1    2
+ATOM      3    O TYR     2      33.822  32.762 18.5353
+ATOM      4   OH TYR     2     33.8957 36.7307 19.8597      18.9331
+CONECT    3    4
+ATOM      5   OH TYR     2     33.8957 36.7307 19.8597
+ATOM      6    O THR     3     32.5087 32.9903  21.802      4.83345
+CONECT    5    6
+ATOM      7    O THR     3     32.5087 32.9903  21.802
+ATOM      8  OG1 THR     3     34.4082 30.2495  19.607      4.23547
+CONECT    7    8
+ATOM      9  OG1 THR     3     34.4082 30.2495  19.607
+ATOM     10    O ILE     4      31.962  31.737 24.8103      14.323
+CONECT    9   10
+ATOM     11    O ILE     4      31.962  31.737 24.8103
+ATOM     12   CD ILE     4      29.827 34.5958 23.3285      4.35021
+CONECT   11   12
+ATOM     13   CD ILE     4      29.827 34.5958 23.3285
+ATOM     14    O ALA     5     30.0237  32.237  27.122      6.04223
+CONECT   13   14
+ATOM     15    O ALA     5     30.0237  32.237  27.122
+ATOM     16   CB ALA     5     33.9045  31.567 26.8045      6.27231
+CONECT   15   16
+ATOM     17   CB ALA     5     33.9045  31.567 26.8045
+ATOM     18    O ALA     6     27.5903 30.3037 27.5053      1.84187
+CONECT   17   18
+ATOM     19    O ALA     6     27.5903 30.3037 27.5053
+ATOM     20   CB ALA     6     27.6945  33.762  26.292      5.88413
+CONECT   19   20
+ATOM     21   CB ALA     6     27.6945  33.762  26.292
+ATOM     22    O LEU     7     28.4137  28.642 29.8903      11.2655
+CONECT   21   22
+ATOM     23    O LEU     7     28.4137  28.642 29.8903
+ATOM     24   CG LEU     7     29.0362  27.012 26.1785      6.40851
+CONECT   23   24
+ATOM     25   CG LEU     7     29.0362  27.012 26.1785
+ATOM     26    O LEU     8      28.252 26.3503 32.3553      7.51598
+CONECT   25   26
+ATOM     27    O LEU     8      28.252 26.3503 32.3553
+ATOM     28   CG LEU     8     28.3585 30.5489 33.0278      4.72919
+CONECT   27   28
+ATOM     29   CG LEU     8     28.3585 30.5489 33.0278
+ATOM     30    O SER     9      25.723  26.344  34.643      8.7672
+CONECT   29   30
+ATOM     31    O SER     9      25.723  26.344  34.643
+ATOM     32   OG SER     9      29.255  24.522  33.995      4.71118
+CONECT   31   32
+ATOM     33   OG SER     9      29.255  24.522  33.995
+ATOM     34    O PRO    10     23.9953  24.317 35.9037      5.86032
+CONECT   33   34
+ATOM     35    O PRO    10     23.9953  24.317 35.9037
+ATOM     36   CG PRO    10     24.0481 26.2131 32.5214      7.41608
+CONECT   35   36
+ATOM     37   CG PRO    10     24.0481 26.2131 32.5214
+ATOM     38    O TYR    11      23.367  24.142  39.067      12.5853
+CONECT   37   38
+ATOM     39    O TYR    11      23.367  24.142  39.067
+ATOM     40   OH TYR    11     24.9897 20.3587 38.6703      9.96931
+CONECT   39   40
+ATOM     41   OH TYR    11     24.9897 20.3587 38.6703
+ATOM     42    O SER    12      20.687 23.0432 41.8945       7.886
+CONECT   41   42
+ATOM     43    O SER    12      20.687 23.0432 41.8945
+ATOM     44   OG SER    12      22.253  26.264  40.323      10.1067
+CONECT   43   44
+ENDMDL

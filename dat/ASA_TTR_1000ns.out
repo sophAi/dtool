@@ -1,0 +1,771 @@
+ SUPERICIE ASA
+ =============
+  
+ MEDIA: 0.1432373E+04
+ MID_SQ: 0.2051919E+07
+ DEV_STD: 0.1505569E+02
+  
+  
+ ASA MINIMA ASSOLUTA: 0.1360226E+04
+ -------------------- 
+ deviazione dalla media: 0.7214711E+02
+ molecola: 1
+ fotogramma: 293853
+ file: TTR_md_1000ns.his
+  
+ contribuiscono gli atomi:
+                             CH3 ACE 1
+                             1HH3 ACE 1
+                             2HH3 ACE 1
+                             3HH3 ACE 1
+                             C ACE 1
+                             O ACE 1
+                             N TYR 2
+                             H TYR 2
+                             CA TYR 2
+                             HA TYR 2
+                             CB TYR 2
+                             HB1 TYR 2
+                             HB2 TYR 2
+                             CG TYR 2
+                             CD1 TYR 2
+                             HD1 TYR 2
+                             CD2 TYR 2
+                             HD2 TYR 2
+                             CE1 TYR 2
+                             HE1 TYR 2
+                             CE2 TYR 2
+                             HE2 TYR 2
+                             CZ TYR 2
+                             OH TYR 2
+                             HH TYR 2
+                             C TYR 2
+                             O TYR 2
+                             N THR 3
+                             H THR 3
+                             CA THR 3
+                             HA THR 3
+                             CB THR 3
+                             HB THR 3
+                             OG1 THR 3
+                             HG1 THR 3
+                             CG2 THR 3
+                             1HG2 THR 3
+                             2HG2 THR 3
+                             3HG2 THR 3
+                             C THR 3
+                             O THR 3
+                             N ILE 4
+                             H ILE 4
+                             CA ILE 4
+                             HA ILE 4
+                             CB ILE 4
+                             HB ILE 4
+                             CG1 ILE 4
+                             1HG1 ILE 4
+                             2HG1 ILE 4
+                             CG2 ILE 4
+                             1HG2 ILE 4
+                             2HG2 ILE 4
+                             3HG2 ILE 4
+                             CD ILE 4
+                             HD1 ILE 4
+                             HD2 ILE 4
+                             HD3 ILE 4
+                             C ILE 4
+                             O ILE 4
+                             N ALA 5
+                             H ALA 5
+                             CA ALA 5
+                             HA ALA 5
+                             CB ALA 5
+                             HB1 ALA 5
+                             HB2 ALA 5
+                             HB3 ALA 5
+                             C ALA 5
+                             O ALA 5
+                             N ALA 6
+                             H ALA 6
+                             CA ALA 6
+                             HA ALA 6
+                             CB ALA 6
+                             HB1 ALA 6
+                             HB2 ALA 6
+                             HB3 ALA 6
+                             C ALA 6
+                             O ALA 6
+                             N LEU 7
+                             H LEU 7
+                             CA LEU 7
+                             HA LEU 7
+                             CB LEU 7
+                             HB1 LEU 7
+                             HB2 LEU 7
+                             CG LEU 7
+                             HG LEU 7
+                             CD1 LEU 7
+                             1HD1 LEU 7
+                             2HD1 LEU 7
+                             3HD1 LEU 7
+                             CD2 LEU 7
+                             1HD2 LEU 7
+                             2HD2 LEU 7
+                             3HD2 LEU 7
+                             C LEU 7
+                             O LEU 7
+                             N LEU 8
+                             H LEU 8
+                             CA LEU 8
+                             HA LEU 8
+                             CB LEU 8
+                             HB1 LEU 8
+                             HB2 LEU 8
+                             CG LEU 8
+                             HG LEU 8
+                             CD1 LEU 8
+                             1HD1 LEU 8
+                             2HD1 LEU 8
+                             3HD1 LEU 8
+                             CD2 LEU 8
+                             1HD2 LEU 8
+                             2HD2 LEU 8
+                             3HD2 LEU 8
+                             C LEU 8
+                             O LEU 8
+                             N SER 9
+                             H SER 9
+                             CA SER 9
+                             HA SER 9
+                             CB SER 9
+                             HB1 SER 9
+                             HB2 SER 9
+                             OG SER 9
+                             HG SER 9
+                             C SER 9
+                             O SER 9
+                             N PRO 10
+                             CA PRO 10
+                             HA PRO 10
+                             CB PRO 10
+                             HB1 PRO 10
+                             HB2 PRO 10
+                             CG PRO 10
+                             HG1 PRO 10
+                             HG2 PRO 10
+                             CD PRO 10
+                             HD1 PRO 10
+                             HD2 PRO 10
+                             C PRO 10
+                             O PRO 10
+                             N TYR 11
+                             H TYR 11
+                             CA TYR 11
+                             HA TYR 11
+                             CB TYR 11
+                             HB1 TYR 11
+                             HB2 TYR 11
+                             CG TYR 11
+                             CD1 TYR 11
+                             HD1 TYR 11
+                             CD2 TYR 11
+                             HD2 TYR 11
+                             CE1 TYR 11
+                             HE1 TYR 11
+                             CE2 TYR 11
+                             HE2 TYR 11
+                             CZ TYR 11
+                             OH TYR 11
+                             HH TYR 11
+                             C TYR 11
+                             O TYR 11
+                             N SER 12
+                             H SER 12
+                             CA SER 12
+                             HA SER 12
+                             CB SER 12
+                             HB1 SER 12
+                             HB2 SER 12
+                             OG SER 12
+                             HG SER 12
+                             C SER 12
+                             O SER 12
+                             N NAC 13
+                             H NAC 13
+                             CH3 NAC 13
+                             1HH3 NAC 13
+                             2HH3 NAC 13
+                             3HH3 NAC 13
+  
+  
+ ASA MASSIMA ASSOLUTA: 0.1480046E+04
+ --------------------- 
+ deviazione dalla media: 0.4767271E+02
+ molecola: 1
+ fotogramma: 408470
+ file: TTR_md_1000ns.his
+  
+ contribuiscono gli atomi:
+                             CH3 ACE 1
+                             1HH3 ACE 1
+                             2HH3 ACE 1
+                             3HH3 ACE 1
+                             C ACE 1
+                             O ACE 1
+                             N TYR 2
+                             H TYR 2
+                             CA TYR 2
+                             HA TYR 2
+                             CB TYR 2
+                             HB1 TYR 2
+                             HB2 TYR 2
+                             CG TYR 2
+                             CD1 TYR 2
+                             HD1 TYR 2
+                             CD2 TYR 2
+                             HD2 TYR 2
+                             CE1 TYR 2
+                             HE1 TYR 2
+                             CE2 TYR 2
+                             HE2 TYR 2
+                             CZ TYR 2
+                             OH TYR 2
+                             HH TYR 2
+                             C TYR 2
+                             O TYR 2
+                             N THR 3
+                             H THR 3
+                             CA THR 3
+                             HA THR 3
+                             CB THR 3
+                             HB THR 3
+                             OG1 THR 3
+                             HG1 THR 3
+                             CG2 THR 3
+                             1HG2 THR 3
+                             2HG2 THR 3
+                             3HG2 THR 3
+                             C THR 3
+                             O THR 3
+                             N ILE 4
+                             H ILE 4
+                             CA ILE 4
+                             HA ILE 4
+                             CB ILE 4
+                             HB ILE 4
+                             CG1 ILE 4
+                             1HG1 ILE 4
+                             2HG1 ILE 4
+                             CG2 ILE 4
+                             1HG2 ILE 4
+                             2HG2 ILE 4
+                             3HG2 ILE 4
+                             CD ILE 4
+                             HD1 ILE 4
+                             HD2 ILE 4
+                             HD3 ILE 4
+                             C ILE 4
+                             O ILE 4
+                             N ALA 5
+                             H ALA 5
+                             CA ALA 5
+                             HA ALA 5
+                             CB ALA 5
+                             HB1 ALA 5
+                             HB2 ALA 5
+                             HB3 ALA 5
+                             C ALA 5
+                             O ALA 5
+                             N ALA 6
+                             H ALA 6
+                             CA ALA 6
+                             HA ALA 6
+                             CB ALA 6
+                             HB1 ALA 6
+                             HB2 ALA 6
+                             HB3 ALA 6
+                             C ALA 6
+                             O ALA 6
+                             N LEU 7
+                             H LEU 7
+                             CA LEU 7
+                             HA LEU 7
+                             CB LEU 7
+                             HB1 LEU 7
+                             HB2 LEU 7
+                             CG LEU 7
+                             HG LEU 7
+                             CD1 LEU 7
+                             1HD1 LEU 7
+                             2HD1 LEU 7
+                             3HD1 LEU 7
+                             CD2 LEU 7
+                             1HD2 LEU 7
+                             2HD2 LEU 7
+                             3HD2 LEU 7
+                             C LEU 7
+                             O LEU 7
+                             N LEU 8
+                             H LEU 8
+                             CA LEU 8
+                             HA LEU 8
+                             CB LEU 8
+                             HB1 LEU 8
+                             HB2 LEU 8
+                             CG LEU 8
+                             HG LEU 8
+                             CD1 LEU 8
+                             1HD1 LEU 8
+                             2HD1 LEU 8
+                             3HD1 LEU 8
+                             CD2 LEU 8
+                             1HD2 LEU 8
+                             2HD2 LEU 8
+                             3HD2 LEU 8
+                             C LEU 8
+                             O LEU 8
+                             N SER 9
+                             H SER 9
+                             CA SER 9
+                             HA SER 9
+                             CB SER 9
+                             HB1 SER 9
+                             HB2 SER 9
+                             OG SER 9
+                             HG SER 9
+                             C SER 9
+                             O SER 9
+                             N PRO 10
+                             CA PRO 10
+                             HA PRO 10
+                             CB PRO 10
+                             HB1 PRO 10
+                             HB2 PRO 10
+                             CG PRO 10
+                             HG1 PRO 10
+                             HG2 PRO 10
+                             CD PRO 10
+                             HD1 PRO 10
+                             HD2 PRO 10
+                             C PRO 10
+                             O PRO 10
+                             N TYR 11
+                             H TYR 11
+                             CA TYR 11
+                             HA TYR 11
+                             CB TYR 11
+                             HB1 TYR 11
+                             HB2 TYR 11
+                             CG TYR 11
+                             CD1 TYR 11
+                             HD1 TYR 11
+                             CD2 TYR 11
+                             HD2 TYR 11
+                             CE1 TYR 11
+                             HE1 TYR 11
+                             CE2 TYR 11
+                             HE2 TYR 11
+                             CZ TYR 11
+                             OH TYR 11
+                             HH TYR 11
+                             C TYR 11
+                             O TYR 11
+                             N SER 12
+                             H SER 12
+                             CA SER 12
+                             HA SER 12
+                             CB SER 12
+                             HB1 SER 12
+                             HB2 SER 12
+                             OG SER 12
+                             HG SER 12
+                             C SER 12
+                             O SER 12
+                             N NAC 13
+                             H NAC 13
+                             CH3 NAC 13
+                             1HH3 NAC 13
+                             2HH3 NAC 13
+                             3HH3 NAC 13
+  
+  
+  
+ CONTRIBUTI MEDI DEI SINGOLI ATOMI
+ =================================
+  
+ N.B. i nomi degli atomi e dei residui sono quelli relativi
+      agli atomi definiti negli insiemi ATOMS e RESIDUES.
+ [ASA_OUTPUT] 181
+           1  CH3 ACE 1 ASA 0.10263E+02  %sftot: 0.283E+02 %suptot: 0.717E+00
+           2  1HH3 ACE 1 ASA 0.80466E+01  %sftot: 0.445E+02 %suptot: 0.562E+00
+           3  2HH3 ACE 1 ASA: 0.80468E+01  %sftot: 0.445E+02 %suptot: 0.562E+00
+           4  3HH3 ACE 1 ASA: 0.80475E+01  %sftot: 0.445E+02 %suptot: 0.562E+00
+           5  C ACE 1 ASA: 0.78870E+01  %sftot: 0.217E+02 %suptot: 0.551E+00
+           6  O ACE 1 ASA: 0.17154E+02  %sftot: 0.591E+02 %suptot: 0.120E+01
+           7  N TYR 2 ASA: 0.45349E+01  %sftot: 0.150E+02 %suptot: 0.317E+00
+           8  H TYR 2 ASA: 0.77866E+01  %sftot: 0.430E+02 %suptot: 0.544E+00
+           9  CA TYR 2 ASA: 0.30407E+01  %sftot: 0.837E+01 %suptot: 0.212E+00
+          10  HA TYR 2 ASA: 0.75375E+01  %sftot: 0.417E+02 %suptot: 0.526E+00
+          11  CB TYR 2 ASA: 0.50387E+01  %sftot: 0.139E+02 %suptot: 0.352E+00
+          12  HB1 TYR 2 ASA: 0.78703E+01  %sftot: 0.435E+02 %suptot: 0.549E+00
+          13  HB2 TYR 2 ASA: 0.78702E+01  %sftot: 0.435E+02 %suptot: 0.549E+00
+          14  CG TYR 2 ASA: 0.54573E+01  %sftot: 0.150E+02 %suptot: 0.381E+00
+          15  CD1 TYR 2 ASA: 0.97445E+01  %sftot: 0.268E+02 %suptot: 0.680E+00
+          16  HD1 TYR 2 ASA: 0.78603E+01  %sftot: 0.434E+02 %suptot: 0.549E+00
+          17  CD2 TYR 2 ASA: 0.97466E+01  %sftot: 0.268E+02 %suptot: 0.680E+00
+          18  HD2 TYR 2 ASA: 0.78720E+01  %sftot: 0.435E+02 %suptot: 0.550E+00
+          19  CE1 TYR 2 ASA: 0.10002E+02  %sftot: 0.275E+02 %suptot: 0.698E+00
+          20  HE1 TYR 2 ASA: 0.79825E+01  %sftot: 0.441E+02 %suptot: 0.557E+00
+          21  CE2 TYR 2 ASA: 0.99987E+01  %sftot: 0.275E+02 %suptot: 0.698E+00
+          22  HE2 TYR 2 ASA: 0.79862E+01  %sftot: 0.441E+02 %suptot: 0.558E+00
+          23  CZ TYR 2 ASA: 0.69837E+01  %sftot: 0.192E+02 %suptot: 0.488E+00
+          24  OH TYR 2 ASA: 0.13617E+02  %sftot: 0.469E+02 %suptot: 0.951E+00
+          25  HH TYR 2 ASA: 0.86055E+01  %sftot: 0.476E+02 %suptot: 0.601E+00
+          26  C TYR 2 ASA: 0.69551E+01  %sftot: 0.192E+02 %suptot: 0.486E+00
+          27  O TYR 2 ASA: 0.16745E+02  %sftot: 0.577E+02 %suptot: 0.117E+01
+          28  N THR 3 ASA: 0.43387E+01  %sftot: 0.144E+02 %suptot: 0.303E+00
+          29  H THR 3 ASA: 0.65774E+01  %sftot: 0.363E+02 %suptot: 0.459E+00
+          30  CA THR 3 ASA: 0.27549E+01  %sftot: 0.759E+01 %suptot: 0.192E+00
+          31  HA THR 3 ASA: 0.75650E+01  %sftot: 0.418E+02 %suptot: 0.528E+00
+          32  CB THR 3 ASA: 0.32399E+01  %sftot: 0.892E+01 %suptot: 0.226E+00
+          33  HB THR 3 ASA: 0.79153E+01  %sftot: 0.437E+02 %suptot: 0.553E+00
+          34  OG1 THR 3 ASA: 0.12846E+02  %sftot: 0.442E+02 %suptot: 0.897E+00
+          35  HG1 THR 3 ASA: 0.80492E+01  %sftot: 0.445E+02 %suptot: 0.562E+00
+          36  CG2 THR 3 ASA: 0.95380E+01  %sftot: 0.263E+02 %suptot: 0.666E+00
+          37  1HG2 THR 3 ASA: 0.79613E+01  %sftot: 0.440E+02 %suptot: 0.556E+00
+          38  2HG2 THR 3 ASA: 0.79656E+01  %sftot: 0.440E+02 %suptot: 0.556E+00
+          39  3HG2 THR 3 ASA: 0.79615E+01  %sftot: 0.440E+02 %suptot: 0.556E+00
+          40  C THR 3 ASA: 0.71839E+01  %sftot: 0.198E+02 %suptot: 0.502E+00
+          41  O THR 3 ASA: 0.16005E+02  %sftot: 0.551E+02 %suptot: 0.112E+01
+          42  N ILE 4 ASA: 0.41233E+01  %sftot: 0.137E+02 %suptot: 0.288E+00
+          43  H ILE 4 ASA: 0.68743E+01  %sftot: 0.380E+02 %suptot: 0.480E+00
+          44  CA ILE 4 ASA: 0.26613E+01  %sftot: 0.733E+01 %suptot: 0.186E+00
+          45  HA ILE 4 ASA: 0.74457E+01  %sftot: 0.411E+02 %suptot: 0.520E+00
+          46  CB ILE 4 ASA: 0.22843E+01  %sftot: 0.629E+01 %suptot: 0.159E+00
+          47  HB ILE 4 ASA: 0.76883E+01  %sftot: 0.425E+02 %suptot: 0.537E+00
+          48  CG1 ILE 4 ASA: 0.52930E+01  %sftot: 0.146E+02 %suptot: 0.370E+00
+          49  1HG1 ILE 4 ASA: 0.77605E+01  %sftot: 0.429E+02 %suptot: 0.542E+00
+          50  2HG1 ILE 4 ASA: 0.75437E+01  %sftot: 0.417E+02 %suptot: 0.527E+00
+          51  CG2 ILE 4 ASA: 0.90006E+01  %sftot: 0.248E+02 %suptot: 0.628E+00
+          52  1HG2 ILE 4 ASA: 0.77601E+01  %sftot: 0.429E+02 %suptot: 0.542E+00
+          53  2HG2 ILE 4 ASA: 0.77553E+01  %sftot: 0.429E+02 %suptot: 0.541E+00
+          54  3HG2 ILE 4 ASA: 0.77569E+01  %sftot: 0.429E+02 %suptot: 0.542E+00
+          55  CD ILE 4 ASA: 0.98513E+01  %sftot: 0.271E+02 %suptot: 0.688E+00
+          56  HD1 ILE 4 ASA: 0.79384E+01  %sftot: 0.439E+02 %suptot: 0.554E+00
+          57  HD2 ILE 4 ASA: 0.79356E+01  %sftot: 0.439E+02 %suptot: 0.554E+00
+          58  HD3 ILE 4 ASA: 0.79391E+01  %sftot: 0.439E+02 %suptot: 0.554E+00
+          59  C ILE 4 ASA: 0.65235E+01  %sftot: 0.180E+02 %suptot: 0.455E+00
+          60  O ILE 4 ASA: 0.16099E+02  %sftot: 0.554E+02 %suptot: 0.112E+01
+          61  N ALA 5 ASA: 0.44331E+01  %sftot: 0.147E+02 %suptot: 0.309E+00
+          62  H ALA 5 ASA: 0.75015E+01  %sftot: 0.415E+02 %suptot: 0.524E+00
+          63  CA ALA 5 ASA: 0.33932E+01  %sftot: 0.934E+01 %suptot: 0.237E+00
+          64  HA ALA 5 ASA: 0.77585E+01  %sftot: 0.429E+02 %suptot: 0.542E+00
+          65  CB ALA 5 ASA: 0.93399E+01  %sftot: 0.257E+02 %suptot: 0.652E+00
+          66  HB1 ALA 5 ASA: 0.80329E+01  %sftot: 0.444E+02 %suptot: 0.561E+00
+          67  HB2 ALA 5 ASA: 0.80330E+01  %sftot: 0.444E+02 %suptot: 0.561E+00
+          68  HB3 ALA 5 ASA: 0.80330E+01  %sftot: 0.444E+02 %suptot: 0.561E+00
+          69  C ALA 5 ASA: 0.69364E+01  %sftot: 0.191E+02 %suptot: 0.484E+00
+          70  O ALA 5 ASA: 0.16313E+02  %sftot: 0.562E+02 %suptot: 0.114E+01
+          71  N ALA 6 ASA: 0.44382E+01  %sftot: 0.147E+02 %suptot: 0.310E+00
+          72  H ALA 6 ASA: 0.70534E+01  %sftot: 0.390E+02 %suptot: 0.492E+00
+          73  CA ALA 6 ASA: 0.34099E+01  %sftot: 0.939E+01 %suptot: 0.238E+00
+          74  HA ALA 6 ASA: 0.77761E+01  %sftot: 0.430E+02 %suptot: 0.543E+00
+          75  CB ALA 6 ASA: 0.93230E+01  %sftot: 0.257E+02 %suptot: 0.651E+00
+          76  HB1 ALA 6 ASA: 0.80048E+01  %sftot: 0.442E+02 %suptot: 0.559E+00
+          77  HB2 ALA 6 ASA: 0.80042E+01  %sftot: 0.442E+02 %suptot: 0.559E+00
+          78  HB3 ALA 6 ASA: 0.80063E+01  %sftot: 0.442E+02 %suptot: 0.559E+00
+          79  C ALA 6 ASA: 0.70715E+01  %sftot: 0.195E+02 %suptot: 0.494E+00
+          80  O ALA 6 ASA: 0.16739E+02  %sftot: 0.577E+02 %suptot: 0.117E+01
+          81  N LEU 7 ASA: 0.41814E+01  %sftot: 0.138E+02 %suptot: 0.292E+00
+          82  H LEU 7 ASA: 0.67305E+01  %sftot: 0.372E+02 %suptot: 0.469E+00
+          83  CA LEU 7 ASA: 0.30142E+01  %sftot: 0.830E+01 %suptot: 0.210E+00
+          84  HA LEU 7 ASA: 0.73645E+01  %sftot: 0.407E+02 %suptot: 0.514E+00
+          85  CB LEU 7 ASA: 0.44159E+01  %sftot: 0.122E+02 %suptot: 0.308E+00
+          86  HB1 LEU 7 ASA: 0.77616E+01  %sftot: 0.429E+02 %suptot: 0.542E+00
+          87  HB2 LEU 7 ASA: 0.77914E+01  %sftot: 0.431E+02 %suptot: 0.544E+00
+          88  CG LEU 7 ASA: 0.29372E+01  %sftot: 0.809E+01 %suptot: 0.205E+00
+          89  HG LEU 7 ASA: 0.76002E+01  %sftot: 0.420E+02 %suptot: 0.531E+00
+          90  CD1 LEU 7 ASA: 0.93139E+01  %sftot: 0.256E+02 %suptot: 0.650E+00
+          91  1HD1 LEU 7 ASA: 0.79869E+01  %sftot: 0.441E+02 %suptot: 0.558E+00
+          92  2HD1 LEU 7 ASA: 0.79868E+01  %sftot: 0.441E+02 %suptot: 0.558E+00
+          93  3HD1 LEU 7 ASA: 0.79878E+01  %sftot: 0.441E+02 %suptot: 0.558E+00
+          94  CD2 LEU 7 ASA: 0.92833E+01  %sftot: 0.256E+02 %suptot: 0.648E+00
+          95  1HD2 LEU 7 ASA: 0.79707E+01  %sftot: 0.440E+02 %suptot: 0.557E+00
+          96  2HD2 LEU 7 ASA: 0.79737E+01  %sftot: 0.441E+02 %suptot: 0.557E+00
+          97  3HD2 LEU 7 ASA: 0.79715E+01  %sftot: 0.441E+02 %suptot: 0.557E+00
+          98  C LEU 7 ASA: 0.69354E+01  %sftot: 0.191E+02 %suptot: 0.484E+00
+          99  O LEU 7 ASA: 0.16827E+02  %sftot: 0.580E+02 %suptot: 0.117E+01
+         100  N LEU 8 ASA: 0.40511E+01  %sftot: 0.134E+02 %suptot: 0.283E+00
+         101  H LEU 8 ASA: 0.70736E+01  %sftot: 0.391E+02 %suptot: 0.493E+00
+         102  CA LEU 8 ASA: 0.30355E+01  %sftot: 0.836E+01 %suptot: 0.212E+00
+         103  HA LEU 8 ASA: 0.73775E+01  %sftot: 0.408E+02 %suptot: 0.515E+00
+         104  CB LEU 8 ASA: 0.44101E+01  %sftot: 0.121E+02 %suptot: 0.308E+00
+         105  HB1 LEU 8 ASA: 0.78197E+01  %sftot: 0.432E+02 %suptot: 0.546E+00
+         106  HB2 LEU 8 ASA: 0.78617E+01  %sftot: 0.434E+02 %suptot: 0.549E+00
+         107  CG LEU 8 ASA: 0.29347E+01  %sftot: 0.808E+01 %suptot: 0.205E+00
+         108  HG LEU 8 ASA: 0.76223E+01  %sftot: 0.421E+02 %suptot: 0.532E+00
+         109  CD1 LEU 8 ASA: 0.93217E+01  %sftot: 0.257E+02 %suptot: 0.651E+00
+         110  1HD1 LEU 8 ASA: 0.80087E+01  %sftot: 0.443E+02 %suptot: 0.559E+00
+         111  2HD1 LEU 8 ASA: 0.80109E+01  %sftot: 0.443E+02 %suptot: 0.559E+00
+         112  3HD1 LEU 8 ASA: 0.80083E+01  %sftot: 0.443E+02 %suptot: 0.559E+00
+         113  CD2 LEU 8 ASA: 0.92911E+01  %sftot: 0.256E+02 %suptot: 0.649E+00
+         114  1HD2 LEU 8 ASA: 0.79850E+01  %sftot: 0.441E+02 %suptot: 0.558E+00
+         115  2HD2 LEU 8 ASA: 0.79840E+01  %sftot: 0.441E+02 %suptot: 0.557E+00
+         116  3HD2 LEU 8 ASA: 0.79864E+01  %sftot: 0.441E+02 %suptot: 0.558E+00
+         117  C LEU 8 ASA: 0.70997E+01  %sftot: 0.195E+02 %suptot: 0.496E+00
+         118  O LEU 8 ASA: 0.17106E+02  %sftot: 0.589E+02 %suptot: 0.119E+01
+         119  N SER 9 ASA: 0.45265E+01  %sftot: 0.150E+02 %suptot: 0.316E+00
+         120  H SER 9 ASA: 0.63928E+01  %sftot: 0.353E+02 %suptot: 0.446E+00
+         121  CA SER 9 ASA: 0.28508E+01  %sftot: 0.785E+01 %suptot: 0.199E+00
+         122  HA SER 9 ASA: 0.70574E+01  %sftot: 0.390E+02 %suptot: 0.493E+00
+         123  CB SER 9 ASA: 0.65988E+01  %sftot: 0.182E+02 %suptot: 0.461E+00
+         124  HB1 SER 9 ASA: 0.78274E+01  %sftot: 0.433E+02 %suptot: 0.546E+00
+         125  HB2 SER 9 ASA: 0.79995E+01  %sftot: 0.442E+02 %suptot: 0.559E+00
+         126  OG SER 9 ASA: 0.13637E+02  %sftot: 0.470E+02 %suptot: 0.952E+00
+         127  HG SER 9 ASA: 0.76939E+01  %sftot: 0.425E+02 %suptot: 0.537E+00
+         128  C SER 9 ASA: 0.70946E+01  %sftot: 0.195E+02 %suptot: 0.495E+00
+         129  O SER 9 ASA: 0.15949E+02  %sftot: 0.549E+02 %suptot: 0.111E+01
+         130  N PRO 10 ASA: 0.29247E+01  %sftot: 0.969E+01 %suptot: 0.204E+00
+         131  CA PRO 10 ASA: 0.29882E+01  %sftot: 0.823E+01 %suptot: 0.209E+00
+         132  HA PRO 10 ASA: 0.77894E+01  %sftot: 0.430E+02 %suptot: 0.544E+00
+         133  CB PRO 10 ASA: 0.62631E+01  %sftot: 0.172E+02 %suptot: 0.437E+00
+         134  HB1 PRO 10 ASA: 0.79336E+01  %sftot: 0.438E+02 %suptot: 0.554E+00
+         135  HB2 PRO 10 ASA: 0.80904E+01  %sftot: 0.447E+02 %suptot: 0.565E+00
+         136  CG PRO 10 ASA: 0.67773E+01  %sftot: 0.187E+02 %suptot: 0.473E+00
+         137  HG1 PRO 10 ASA: 0.80521E+01  %sftot: 0.445E+02 %suptot: 0.562E+00
+         138  HG2 PRO 10 ASA: 0.81305E+01  %sftot: 0.449E+02 %suptot: 0.568E+00
+         139  CD PRO 10 ASA: 0.63020E+01  %sftot: 0.174E+02 %suptot: 0.440E+00
+         140  HD1 PRO 10 ASA: 0.77450E+01  %sftot: 0.428E+02 %suptot: 0.541E+00
+         141  HD2 PRO 10 ASA: 0.79565E+01  %sftot: 0.440E+02 %suptot: 0.556E+00
+         142  C PRO 10 ASA: 0.70926E+01  %sftot: 0.195E+02 %suptot: 0.495E+00
+         143  O PRO 10 ASA: 0.17046E+02  %sftot: 0.587E+02 %suptot: 0.119E+01
+         144  N TYR 11 ASA: 0.44325E+01  %sftot: 0.147E+02 %suptot: 0.309E+00
+         145  H TYR 11 ASA: 0.73639E+01  %sftot: 0.407E+02 %suptot: 0.514E+00
+         146  CA TYR 11 ASA: 0.30352E+01  %sftot: 0.836E+01 %suptot: 0.212E+00
+         147  HA TYR 11 ASA: 0.75553E+01  %sftot: 0.418E+02 %suptot: 0.528E+00
+         148  CB TYR 11 ASA: 0.50653E+01  %sftot: 0.139E+02 %suptot: 0.354E+00
+         149  HB1 TYR 11 ASA: 0.78624E+01  %sftot: 0.434E+02 %suptot: 0.549E+00
+         150  HB2 TYR 11 ASA: 0.78629E+01  %sftot: 0.435E+02 %suptot: 0.549E+00
+         151  CG TYR 11 ASA: 0.54603E+01  %sftot: 0.150E+02 %suptot: 0.381E+00
+         152  CD1 TYR 11 ASA: 0.97346E+01  %sftot: 0.268E+02 %suptot: 0.680E+00
+         153  HD1 TYR 11 ASA: 0.78509E+01  %sftot: 0.434E+02 %suptot: 0.548E+00
+         154  CD2 TYR 11 ASA: 0.97176E+01  %sftot: 0.268E+02 %suptot: 0.678E+00
+         155  HD2 TYR 11 ASA: 0.78502E+01  %sftot: 0.434E+02 %suptot: 0.548E+00
+         156  CE1 TYR 11 ASA: 0.99893E+01  %sftot: 0.275E+02 %suptot: 0.697E+00
+         157  HE1 TYR 11 ASA: 0.79827E+01  %sftot: 0.441E+02 %suptot: 0.557E+00
+         158  CE2 TYR 11 ASA: 0.99732E+01  %sftot: 0.275E+02 %suptot: 0.696E+00
+         159  HE2 TYR 11 ASA: 0.79774E+01  %sftot: 0.441E+02 %suptot: 0.557E+00
+         160  CZ TYR 11 ASA: 0.69578E+01  %sftot: 0.192E+02 %suptot: 0.486E+00
+         161  OH TYR 11 ASA: 0.13555E+02  %sftot: 0.467E+02 %suptot: 0.946E+00
+         162  HH TYR 11 ASA: 0.85345E+01  %sftot: 0.472E+02 %suptot: 0.596E+00
+         163  C TYR 11 ASA: 0.70394E+01  %sftot: 0.194E+02 %suptot: 0.492E+00
+         164  O TYR 11 ASA: 0.16698E+02  %sftot: 0.575E+02 %suptot: 0.117E+01
+         165  N SER 12 ASA: 0.43213E+01  %sftot: 0.143E+02 %suptot: 0.302E+00
+         166  H SER 12 ASA: 0.70372E+01  %sftot: 0.389E+02 %suptot: 0.491E+00
+         167  CA SER 12 ASA: 0.30785E+01  %sftot: 0.848E+01 %suptot: 0.215E+00
+         168  HA SER 12 ASA: 0.76230E+01  %sftot: 0.421E+02 %suptot: 0.532E+00
+         169  CB SER 12 ASA: 0.66749E+01  %sftot: 0.184E+02 %suptot: 0.466E+00
+         170  HB1 SER 12 ASA: 0.80288E+01  %sftot: 0.444E+02 %suptot: 0.561E+00
+         171  HB2 SER 12 ASA: 0.80499E+01  %sftot: 0.445E+02 %suptot: 0.562E+00
+         172  OG SER 12 ASA: 0.13744E+02  %sftot: 0.473E+02 %suptot: 0.960E+00
+         173  HG SER 12 ASA: 0.81268E+01  %sftot: 0.449E+02 %suptot: 0.567E+00
+         174  C SER 12 ASA: 0.74422E+01  %sftot: 0.205E+02 %suptot: 0.520E+00
+         175  O SER 12 ASA: 0.16894E+02  %sftot: 0.582E+02 %suptot: 0.118E+01
+         176  N NAC 13 ASA: 0.54485E+01  %sftot: 0.180E+02 %suptot: 0.380E+00
+         177  H NAC 13 ASA: 0.78728E+01  %sftot: 0.435E+02 %suptot: 0.550E+00
+         178  CH3 NAC 13 ASA: 0.11217E+02  %sftot: 0.309E+02 %suptot: 0.783E+00
+         179  1HH3 NAC 13 ASA: 0.80532E+01  %sftot: 0.445E+02 %suptot: 0.562E+00
+         180  2HH3 NAC 13 ASA: 0.80529E+01  %sftot: 0.445E+02 %suptot: 0.562E+00
+         181  3HH3 NAC 13 ASA: 0.80539E+01  %sftot: 0.445E+02 %suptot: 0.562E+00
+ [END_OUTPUT]
+  
+  
+  
+ VOLUME MOLECOLARE VISTO DA CIASCUN ATOMO
+ ========================================
+  
+   1161.1007448862142     
+   1161.1007597495766     
+   1161.1007315848985     
+   1161.1008888450388     
+   1161.1005803363266     
+   1161.1004076690031     
+   1161.1006304604900     
+   1161.1007710671624     
+   1161.1004769079218     
+   1161.1000587473179     
+   1161.1005696118809     
+   1161.1007156440526     
+   1161.1005609706988     
+   1161.1005243689406     
+   1161.1005555660624     
+   1161.1006612824815     
+   1161.1004419554913     
+   1161.1003911653165     
+   1161.1005022966076     
+   1161.1005138392120     
+   1161.1003863993712     
+   1161.1002986071217     
+   1161.1004171826601     
+   1161.1003587746739     
+   1161.1003994525431     
+   1161.1007488556663     
+   1161.1009739167159     
+   1161.1007349131467     
+   1161.1005182840215     
+   1161.1010029500308     
+   1161.1011831745452     
+   1161.1010585235376     
+   1161.1010582590602     
+   1161.1011002503260     
+   1161.1009046768700     
+   1161.1010610333187     
+   1161.1013706931094     
+   1161.1011424494086     
+   1161.1006593437110     
+   1161.1010262137449     
+   1161.1007851194354     
+   1161.1013536198843     
+   1161.1015598985089     
+   1161.1015142240458     
+   1161.1012621801940     
+   1161.1014862802847     
+   1161.1015040254492     
+   1161.1016420976553     
+   1161.1017057777167     
+   1161.1015126160851     
+   1161.1012762597329     
+   1161.1012897864339     
+   1161.1014358587358     
+   1161.1009553276108     
+   1161.1018302263171     
+   1161.1018255636050     
+   1161.1019987682544     
+   1161.1018203833426     
+   1161.1019896400312     
+   1161.1020411676966     
+   1161.1023168041011     
+   1161.1022692819163     
+   1161.1027659299968     
+   1161.1028674142885     
+   1161.1030779426958     
+   1161.1034418522443     
+   1161.1029732164375     
+   1161.1030479933193     
+   1161.1027590769197     
+   1161.1027415772885     
+   1161.1027695829027     
+   1161.1028368773455     
+   1161.1027664246799     
+   1161.1026793648393     
+   1161.1029908430990     
+   1161.1032337016345     
+   1161.1032100696848     
+   1161.1026654643601     
+   1161.1026403009037     
+   1161.1029701823852     
+   1161.1021490705552     
+   1161.1019336259085     
+   1161.1019299547504     
+   1161.1019247506824     
+   1161.1014767162458     
+   1161.1013361765936     
+   1161.1012925722837     
+   1161.1014213065168     
+   1161.1016836747085     
+   1161.1013443659112     
+   1161.1010375372496     
+   1161.1014810468976     
+   1161.1014187684757     
+   1161.1011424364231     
+   1161.1009902404603     
+   1161.1011514154429     
+   1161.1011582683930     
+   1161.1020546872273     
+   1161.1020064014747     
+   1161.1021931448536     
+   1161.1022165270308     
+   1161.1023421237032     
+   1161.1022671366784     
+   1161.1024514406508     
+   1161.1026431071020     
+   1161.1025777044315     
+   1161.1021822155410     
+   1161.1019727027613     
+   1161.1024907175245     
+   1161.1024683144888     
+   1161.1029399020474     
+   1161.1022942799466     
+   1161.1017955468747     
+   1161.1017551091256     
+   1161.1017364206868     
+   1161.1016415547995     
+   1161.1024840041314     
+   1161.1025097321697     
+   1161.1026014117901     
+   1161.1026041924840     
+   1161.1026977844163     
+   1161.1027609912978     
+   1161.1030954975918     
+   1161.1032588670173     
+   1161.1031646102767     
+   1161.1031745455223     
+   1161.1031586111951     
+   1161.1023492745212     
+   1161.1021678995044     
+   1161.1022336470896     
+   1161.1018892977725     
+   1161.1017237624162     
+   1161.1018656571180     
+   1161.1017047460659     
+   1161.1017333987320     
+   1161.1022435278769     
+   1161.1023472387628     
+   1161.1022785478040     
+   1161.1024258002674     
+   1161.1026604986976     
+   1161.1024747381900     
+   1161.1018436972954     
+   1161.1020280525584     
+   1161.1016260751326     
+   1161.1015124585510     
+   1161.1015892285552     
+   1161.1016236647001     
+   1161.1012683747538     
+   1161.1010260253597     
+   1161.1009566152541     
+   1161.1016386009417     
+   1161.1018607551066     
+   1161.1017479040624     
+   1161.1018015807908     
+   1161.1016611626901     
+   1161.1021938251324     
+   1161.1023535251372     
+   1161.1021351161939     
+   1161.1022026204885     
+   1161.1023333297753     
+   1161.1026874134793     
+   1161.1026545751401     
+   1161.1017591794150     
+   1161.1021834171877     
+   1161.1014504106324     
+   1161.1010657102045     
+   1161.1015302706217     
+   1161.1016263653030     
+   1161.1017955455395     
+   1161.1018396527049     
+   1161.1019479100939     
+   1161.1018328253749     
+   1161.1017323960505     
+   1161.1011670926821     
+   1161.1009553994206     
+   1161.1010421523877     
+   1161.1011923345736     
+   1161.1007176827557     
+   1161.1005429996039     
+   1161.1007482100486     
+   1161.1005920147809     
+  
+ VOLUME MOLECOLARE
+ =================
+  
+   1161.1017054091178     

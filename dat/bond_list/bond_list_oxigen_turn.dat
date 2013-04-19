@@ -1,0 +1,23 @@
+# bead_a  res_a  res_a_id  bead_b  res_b  res_b_id
+O   ACE  1   O   TYR  2
+O   TYR  2   O   THR  3
+O   THR  3   O   ILE  4
+O   ILE  4   O   ALA  5
+O   ALA  5   O   ALA  6
+O   ALA  6   O   LEU  7
+O   LEU  7   O   LEU  8
+O   LEU  8   O   SER  9
+O   SER  9   O   PRO 10
+O   PRO 10   O   TYR 11
+O   TYR 11   O   SER 12
+O   SER 12   OG  SER 12
+OG  SER 12   OH  TYR 11
+OH  TYR 11   CG  PRO 10
+CG  PRO 10   OG  SER  9
+OG  SER  9   CG  LEU  8
+CG  LEU  8   CG  LEU  7
+CG  LEU  7   CB  ALA  6
+CB  ALA  6   CB  ALA  5
+CB  ALA  5   CD  ILE  4
+CD  ILE  4   OG1 THR  3
+OG1 THR  3   OH  TYR  2
